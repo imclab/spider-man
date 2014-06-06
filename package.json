@@ -1,0 +1,19 @@
+{
+	"name": "spider-man",
+	"description": "Spider-Man",
+	"version": "1.0.0",
+	"author": "Shawn Jonnet",
+	"dependencies": {
+		"aws-sdk": "2.x.x",
+		"commander": "2.x.x",
+		"jade": "1.x.x",
+		"mime-types": "0.x.x",
+		"node-phantom": "0.x.x",
+		"redis": "0.x.x",
+		"styl": "0.x.x",
+		"uglify-js": "2.x.x"
+	},
+	"engines": {
+		"node": ">= 0.6.0"
+	}
+}
